@@ -4,8 +4,6 @@ public class compare_stiring {
         String s1 = "Tony";
         String s2 = "Tony";
         String s3 = new String("Tony");
-
-        // normal compare in strings
         if (s1 == s2) {
             System.out.println("S1 = S2");
         } else {
